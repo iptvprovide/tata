@@ -1,0 +1,552 @@
+[
+  {
+    "id": "8",
+    "name": "STAR Plus HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25309-jhrhfvy0-v1/imageContent-25309-jhrhfvy0-m1.png",
+    "is_drm": true
+  },
+  {
+    "id": "244",
+    "name": "Star Bharat HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6897-j6vqj1ps-v2/imageContent-6897-j6vqj1ps-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "15",
+    "name": "SET HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44-j5fca5bs-v3/imageContent-44-j5fca5bs-m4.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "556",
+    "name": "SET",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12073-j9oat6qw-v6/imageContent-12073-j9oat6qw-m6.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "48",
+    "name": "SONY SAB HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-140-j5fpeji0-v3/imageContent-140-j5fpeji0-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "559",
+    "name": "SONY SAB",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12083-j9oc3vaw-v8/imageContent-12083-j9oc3vaw-m7.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "40",
+    "name": "&tv HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-116-j5fl6gyo-v1/imageContent-116-j5fl6gyo-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "578",
+    "name": "&TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12131-j9p7kuc8-v2/imageContent-12131-j9p7kuc8-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "63",
+    "name": "Zee TV HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11075-j95e7u4w-v1/imageContent-11075-j95e7u4w-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "557",
+    "name": "ZEE TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12076-j9ob4gm0-v2/imageContent-12076-j9ob4gm0-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "959",
+    "name": "Tata Play Romance",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67693-kwmxxxjs-v2/imageContent-67693-kwmxxxjs-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "811",
+    "name": "Tata Play Adbhut Kahaniyan",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52368-k7e829a0-v5/imageContent-52368-k7e829a0-m5.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "52",
+    "name": "Colors HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-162-j5frd6pk-v1/imageContent-162-j5frd6pk-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "543",
+    "name": "Colors",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12052-j9o3yhko-v1/imageContent-12052-j9o3yhko-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "95",
+    "name": "Tata Play Javed Akhtar",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-306-j5jia3h4-v2/imageContent-306-j5jia3h4-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "943",
+    "name": "Tata Play Videshi Kahaniyan",
+    "group": "Entertainment",
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Tata Play K-Dramas_Poster_73adb40a-910a-4647-abe6-7409b3c5cf41.png",
+    "is_drm": true
+  },
+  {
+    "id": "964",
+    "name": "Tata Play Classic TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_Poster-v4/TPCTV_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "142",
+    "name": "UTV Bindass",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png",
+    "is_drm": true
+  },
+  {
+    "id": "986",
+    "name": "Tata Play Zindagi",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70820-l3edt8uw-v1/imageContent-70820-l3edt8uw-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1276",
+    "name": "Investigation Discovery HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Poster-v1/INVESTDISHD_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "633",
+    "name": "Investigation Discovery",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49003-k5cch7io-v2/imageContent-49003-k5cch7io-m5.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "551",
+    "name": "STAR Utsav",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44803-jzs89dmg-v1/imageContent-44803-jzs89dmg-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "523",
+    "name": "Zee Anmol",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11968-j9luigc0-v2/imageContent-11968-j9luigc0-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "438",
+    "name": "Colors Rishtey",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Poster-v3/RIS_Poster.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "554",
+    "name": "Sony Pal",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12070-j9oa4gbc-v5/imageContent-12070-j9oa4gbc-m4.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "54",
+    "name": "The Q",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-152-j5frd1b4-v2/imageContent-152-j5frd1b4-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "297",
+    "name": "Big Magic",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11265-j9j2spmg-v1/imageContent-11265-j9j2spmg-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "51",
+    "name": "Dangal",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTV_Poster-v5/NTV_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "194",
+    "name": "Dangal 2",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-797-j5m7esnc-v4/imageContent-797-j5m7esnc-m11.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "180",
+    "name": "Anjan TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-764-j5m2mbjk-v2/imageContent-764-j5m2mbjk-m2.png",
+    "is_drm": true
+  },
+  {
+    "id": "818",
+    "name": "Shemaroo TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52944-ka1wdss8-v2/imageContent-52944-ka1wdss8-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "888",
+    "name": "Ishara",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v3/Ishara_Poster.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1045",
+    "name": "Shemaroo UMANG",
+    "group": "Spiritual",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEUM_Poster-v2/SHEUM_Poster.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "191",
+    "name": "DD National",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-794-j5m7axrc-v1/imageContent-794-j5m7axrc-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "326",
+    "name": "DD Kisan",
+    "group": "Knowledge",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11349-j9jpk8pk-v1/imageContent-11349-j9jpk8pk-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "808",
+    "name": "Tata Play Hits",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49810-k7454sso-v3/imageContent-49810-k7454sso-m6.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "187",
+    "name": "Colors Infinity HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-779-j5m4fb1s-v1/imageContent-779-j5m4fb1s-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "307",
+    "name": "Comedy Central HD",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",
+    "is_drm": true
+  },
+  {
+    "id": "306",
+    "name": "Comedy Central",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11293-j9j5u4o0-v3/imageContent-11293-j9j5u4o0-m2.png",
+    "is_drm": true
+  },
+  {
+    "id": "544",
+    "name": "Colors Infinity",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18306-jcqmvpzk-v1/imageContent-18306-jcqmvpzk-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "789",
+    "name": "Tata Play Hollywood Local",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48750-k4jbpry0-v2/imageContent-48750-k4jbpry0-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "486",
+    "name": "Tata Play Bollywood Premiere",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43898-jyofyk1s-v4/imageContent-43898-jyofyk1s-m4.png",
+    "is_drm": true
+  },
+  {
+    "id": "245",
+    "name": "STAR GOLD HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png",
+    "is_drm": true
+  },
+  {
+    "id": "80",
+    "name": "SONY MAX HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-242-j5fyl2f4-v3/imageContent-242-j5fyl2f4-m4.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "132",
+    "name": "SONY MAX",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-440-j5jt3mmg-v3/imageContent-440-j5jt3mmg-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1130",
+    "name": "Tata Play Bollywood Masala",
+    "group": "Drama",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_Poster-v2/BMSLA_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "503",
+    "name": "Zee Cinema HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11914-j9l5clzs-v1/imageContent-11914-j9l5clzs-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "123",
+    "name": "Zee Cinema",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11029-j8yjrbn4-v1/imageContent-11029-j8yjrbn4-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "175",
+    "name": "Zee Bollywood",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31235-jli1xj1s-v1/imageContent-31235-jli1xj1s-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "727",
+    "name": "Zee Classic",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42198-jxh2zlj4-v1/imageContent-42198-jxh2zlj4-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "267",
+    "name": "&pictures HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11172-j9hth720-v1/imageContent-11172-j9hth720-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "148",
+    "name": "&pictures",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-501-j5jydsaw-v1/imageContent-501-j5jydsaw-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1183",
+    "name": "&Xplor HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Poster-v1/XPOHD_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "61",
+    "name": "Colors Cineplex HD",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-182-j5fsqz5c-v2/imageContent-182-j5fsqz5c-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "53",
+    "name": "Colors Cineplex",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-151-j5frd1b4-v2/imageContent-151-j5frd1b4-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "730",
+    "name": "B4U Kadak",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Poster-v6/B4UKad_Poster.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "100",
+    "name": "Action Cinema",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11026-j8yix8b4-v1/imageContent-11026-j8yix8b4-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1003",
+    "name": "Tata Play South Talkies",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72253-l6dn8nco-v3/imageContent-72253-l6dn8nco-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "56",
+    "name": "Sony Wah",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-197-j5fsr7mw-v2/imageContent-197-j5fsr7mw-m2.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "7",
+    "name": "B4U Movies",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17-j5f9ui8g-v1/imageContent-17-j5f9ui8g-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "120",
+    "name": "SONY MAX 2",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-401-j5jq1gko-v3/imageContent-401-j5jq1gko-m4.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1321",
+    "name": "ALL Time MOVIES",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Poster-v1/ATMOV_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "64",
+    "name": "Zee Anmol Cinema",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11092-j95hdl1k-v1/imageContent-11092-j95hdl1k-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "823",
+    "name": "Goldmines",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53944-kblsqraw-v3/imageContent-53944-kblsqraw-m4.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "12",
+    "name": "Zee Anmol Cinema 2",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Poster-v3/ZACINE_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "1000",
+    "name": "Colors Cineplex Bollywood",
+    "group": "Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71751-l5hqgxso-v2/imageContent-71751-l5hqgxso-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1499",
+    "name": "Goldmines Movies",
+    "group": "Movies",
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_BoxCover_8b2f4929-47ca-44a6-a491-9ecc80b73fb0.png",
+    "is_drm": true
+  },
+  {
+    "id": "1050",
+    "name": "Goldmines Bollywood",
+    "group": "Movies",
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesBollywood_BoxCover_8707a82d-945c-4be9-ae64-ef9d7816d732.png",
+    "is_drm": true
+  },
+  {
+    "id": "731",
+    "name": "Manoranjan TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43099-jxzl7qjk-v2/imageContent-43099-jxzl7qjk-m8.png",
+    "is_drm": true
+  },
+  {
+    "id": "173",
+    "name": "Movies Now",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-747-j5l5fnts-v1/imageContent-747-j5l5fnts-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "234",
+    "name": "MNX",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1016-j5ngpo2g-v1/imageContent-1016-j5ngpo2g-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "1269",
+    "name": "Chumbak TV",
+    "group": "Entertainment",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Poster-v2/CHUMBKTV_Poster.png",
+    "is_drm": true
+  },
+  {
+    "id": "32",
+    "name": "SONY PIX HD",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-92-j5fjv614-v3/imageContent-92-j5fjv614-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "558",
+    "name": "SONY PIX",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12079-j9obub60-v7/imageContent-12079-j9obub60-m6.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "562",
+    "name": "Movies Now HD",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12094-j9ooixfs-v1/imageContent-12094-j9ooixfs-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "210",
+    "name": "MN+ HD",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-828-j5m9lpp4-v1/imageContent-828-j5m9lpp4-m1.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "599",
+    "name": "MNX HD",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12215-j9qm5hjs-v2/imageContent-12215-j9qm5hjs-m2.png",
+    "is_drm": true
+  },
+  {
+    "id": "174",
+    "name": "Romedy Now",
+    "group": "English Movies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-750-j5l5kb9k-v3/imageContent-750-j5l5kb9k-m3.jpg",
+    "is_drm": true
+  },
+  {
+    "id": "24",
+    "name": "Star Sports 1 Hindi HD",
+    "group": "Sports",
+    "logo": "https:
